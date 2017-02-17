@@ -1,3 +1,3 @@
-# tutors-course-src
+# tutors-starter
 
-A Course web for exploring the tutors course generator
+A starter course structure for the tutors generator
