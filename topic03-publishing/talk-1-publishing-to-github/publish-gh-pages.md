@@ -1,3 +1,3 @@
-Publishing to Github
+Publishing to Github & Moodle
 
-Publishing a tutors site to Github gh-pages.
+Publishing a tutors site to Github & Moodle
