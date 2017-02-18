@@ -1,3 +1,3 @@
-Tutors Setup
+Tutors Course Structure
 
-Installing the tools needed for tutors. Taking it for a spin.
+A tour of the structure of a typical tutors course.
