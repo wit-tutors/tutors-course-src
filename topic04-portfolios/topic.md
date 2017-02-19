@@ -1,3 +1,3 @@
-# Managing a Portfolio
+# Portfolios
 
 Aggregating multiple modules into a portfolio.

@@ -1,3 +1,3 @@
-# Setting up Tutors
+# Setup
 
 Setting up and configuring the tools tutors requires, and tutors itself. These are: git, node.js and the sublime text editor.
