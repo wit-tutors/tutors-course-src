@@ -1,3 +1,3 @@
 # Git
 
-Explore the git using the command line
+Explore the fundamentals of git, including basic commands, repository branching and merging. 
