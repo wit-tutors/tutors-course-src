@@ -1,3 +1,0 @@
-Git
-
-A visual introduction
