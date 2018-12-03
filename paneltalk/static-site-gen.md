@@ -1,1 +1,1 @@
-Tutors Static Site Generator
+Introducing Tutors
